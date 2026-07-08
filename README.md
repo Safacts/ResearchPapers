@@ -6,19 +6,30 @@ Collection of papers for research and publication preparation.
 
 | # | Title | arXiv ID | File |
 |---|-------|----------|------|
-| 1 | LLM Reasoning Patterns | 2504.16297 | `LLM_Reasoning_Patterns.pdf` |
-| 2 | Chain of Thought Distillation | 2501.15939 | `Chain_of_Thought_Distillation.pdf` |
-| 3 | AI Safety & Alignment | 2604.11599 | `AI_Safety_Alignment.pdf` |
-| 4 | Neural Network Interpretability | 2504.03967 | `Neural_Network_Interpretability.pdf` |
-| 5 | Deep Learning Architectures | 2605.06734 | `Deep_Learning_Architectures.pdf` |
-| 6 | Quantum Machine Learning | 2507.16255 | `Quantum_Machine_Learning.pdf` |
+| 1 | Augmenting Simulated Noisy Quantum Data Collection by Orders of Magnitude Using Pre-Trajectory Sampling with Batched Execution | 2504.16297 | `Augmenting_Simulated_Noisy_Quantum_Data_Collection...pdf` |
+| 2 | Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits | 2501.15939 | `Harnessing_CUDA-Q39s_MPS_for_Tensor_Network...pdf` |
+| 3 | Efficient Transpilation of OpenQASM 3.0 Dynamic Circuits to CUDA-Q | 2604.11599 | `Efficient_Transpilation_of_OpenQASM_30...pdf` |
+| 4 | Q-GEAR: Improving quantum simulation framework | 2504.03967 | `Q-GEAR_Improving_quantum_simulation_framework.pdf` |
+| 5 | Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning | 2605.06734 | `Gated_QKAN-FWP_Scalable_Quantum-inspired_Sequence_Learning.pdf` |
+| 6 | Statistical Assertions for Debugging Quantum Circuits and States in CUDA-Q | 2507.16255 | `Statistical_Assertions_for_Debugging_Quantum_Circuits...pdf` |
 
-## IEEE Papers (behind paywall)
+## Previous Papers (source unknown)
 
-| Title | DOI/Link |
-|-------|----------|
-| IEEE Paper 1 | `https://ieeexplore.ieee.org/document/11374683` |
-| IEEE Paper 2 | `https://ieeexplore.ieee.org/document/11000136` |
+| File |
+|------|
+| `AI_Safety_Alignment.pdf` |
+| `Chain_of_Thought_Distillation.pdf` |
+| `Deep_Learning_Architectures.pdf` |
+| `LLM_Reasoning_Patterns.pdf` |
+| `Neural_Network_Interpretability.pdf` |
+| `Quantum_Machine_Learning.pdf` |
+
+## IEEE Papers (behind paywall - couldn't download)
+
+| Document ID | Link |
+|-------------|------|
+| 11374683 | `https://ieeexplore.ieee.org/document/11374683` |
+| 11000136 | `https://ieeexplore.ieee.org/document/11000136` |
 
 ## Notes
 
